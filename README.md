@@ -15,6 +15,6 @@ The data set contains data on the sepal length, sepal width, petal length and pe
 
 # Resources and References
 Lecture videos for this module
-Kaggle
-Scikit Learn
-Pandas
+1. Kaggle
+2. Scikit Learn
+3. Pandas
