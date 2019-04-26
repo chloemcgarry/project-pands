@@ -23,6 +23,12 @@ sns.set(style="darkgrid", color_codes=True)
 #Setting the data set to plot
 sns.boxplot(data=f)
 
+#Building the Boxplot
+boxplot(sepal_length ~ Species, data=iris,
+main="Box Plot", 
+xlab="Species", 
+ylab="Sepal Length")
+
 #Plotting the data set
 plt.show()
 
