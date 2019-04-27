@@ -7,28 +7,20 @@ import seaborn as sns
 #Import matplotlib
 import matplotlib.pyplot as plt 
 
-#Import Iris dataset with pandas
-f = pd.read_csv("iris_data_set.csv")
+data_set = pd.read_csv('iris_data_set.csv')
 
-#Setting the graph size
-plt.figure(figsize= (10.8))
-
-#Giving the plot a title
-plt.title("Iris Species Boxplot")
-
-#Setting the boxplot style
-#Setting the background colour
-sns.set(style="darkgrid", color_codes=True)
-
-#Setting the data set to plot
-sns.boxplot(data=f)
-
-#Building the Boxplot
-boxplot(sepal_length ~ Species, data=iris,
-main="Box Plot", 
-xlab="Species", 
-ylab="Sepal Length")
-
-#Plotting the data set
+#To create boxplot of the Sepal Length column
+sns.boxplot(x="species", y=("sepal_length"), data=data_set).set_title('Sepal Length Comparison Plot')
 plt.show()
 
+#To create a boxplot of the Sepal Width column
+sns.boxplot(x="species", y=("sepal_width"), data=data_set).set_title('Sepal Width Comparison Plot')
+plt.show()
+
+#To create a boxplot of the Petal Length column
+sns.boxplot(x="species", y=("petal_length"), data=data_set).set_title('Petal Length Comparison Plot')
+plt.show()
+
+#To create a boxplot of the Petal Width column
+sns.boxplot(x="species", y=("petal_width"), data=data_set).set_title('Petal Width Comparison Plot')
+plt.show()
