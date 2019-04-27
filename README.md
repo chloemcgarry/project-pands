@@ -25,7 +25,13 @@ This data set is a high profile and was one of the first of its kind it is used 
 Many python libraries were used to assist in this project. Some of these were recommended in the lecture videos for this module and through research and analysis of code available online, I discovered that the seaborn library would also be helpful in this project. 
 
 Pandas - This is a Python Data Analysis Library. Pandas is an open source library and is free to use. It is a data analysis tool for the Python programming language. 
+NumPy - This is used in scientific computing when using Python. NumPy integrates with data bases quickly and easily. It is an open source software which is readily available. 
+Seaborn - This a python-based visualisation library based on Matplotlib. It is used to create visual representation for statistical analysis. 
+Matplotlib - Similar to Seaborn, Matplotlib is a visualisation library, creating visual representations for statistical analysis. It is used in Python script creating visuals "with jsut a few line of code". Matplotlib is not a "high-level interface" unlike Seaborn. 
 
+These four libraries were essential in the analysis of Fisher's Iris data set. 
+
+# Analysis of the Iris Data Set
 
 
 # Resources and References
@@ -33,3 +39,7 @@ Lecture videos for this module
 1. Kaggle
 2. Scikit Learn
 3. Pandas
+4. Seaborn
+5. NumPy
+6. Matplotlib
+
