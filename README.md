@@ -47,4 +47,4 @@ These four libraries were essential in the analysis of Fisher's Iris data set.
 5. NumPy
 6. Matplotlib
 7. Lecture videos for this module
-
+8. http://academic.bancey.com/plotting-multivariate-data-with-matplotlibpylab-edgar-andersons-iris-flower-data-set/
