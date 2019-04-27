@@ -35,6 +35,7 @@ Matplotlib - Similar to Seaborn, Matplotlib is a visualisation library, creating
 These four libraries were essential in the analysis of Fisher's Iris data set. 
 
 # Analysis of the Iris Data Set
+![scatterplots](http://academic.bancey.com/wp-content/uploads/2016/08/iris_wm-768x639.png)
 
 
 # Resources and References
