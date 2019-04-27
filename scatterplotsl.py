@@ -15,4 +15,4 @@ plt.scatter(x,y)
 #Naming the scatter plot of the sepal length data
 title = ("Sepal Length Comparison Plot")
 #Plotting the sepal length data on a scatter plot
-plt.show
+plt.show()
