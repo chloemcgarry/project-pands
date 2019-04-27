@@ -21,7 +21,10 @@ This data set is a high profile and was one of the first of its kind it is used 
 
 ![iris flower](https://cdn-images-1.medium.com/max/800/0*GVjzZeYrir0R_6-X.png)
 
+# Python Libraries Used
+Many python libraries were used to assist in this project. Some of these were recommended in the lecture videos for this module and through research and analysis of code available online, I discovered that the seaborn library would also be helpful in this project. 
 
+Pandas - This is a Python Data Analysis Library. Pandas is an open source library and is free to use. It is a data analysis tool for the Python programming language. 
 
 
 
