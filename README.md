@@ -16,7 +16,8 @@ Measurements were taken of the sepal length, sepal width, petal length and petal
 50 flowers of each species were analysed under those four catagories. This led to the data set appearing in the following manner - five columns of data (sepal length, sepal width, petal length, petal width and species) with 150 rows of the data. 
 Two of the three species were collected from the Gaspé Peninsula, Quebec, Canada and it is noted that these species of the Iris flower were collected from "the same pasture, picked on the same day, measured at the same time and by the same person".
 
-!
+![iris flower](https://cdn-images-1.medium.com/max/800/0*GVjzZeYrir0R_6-X.png)
+
 
 
 
