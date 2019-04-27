@@ -38,11 +38,12 @@ These four libraries were essential in the analysis of Fisher's Iris data set.
 
 
 # Resources and References
-Lecture videos for this module
+
 1. Kaggle
 2. Scikit Learn
 3. Pandas
 4. Seaborn
 5. NumPy
 6. Matplotlib
+7. Lecture videos for this module
 
