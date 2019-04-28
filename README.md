@@ -43,10 +43,10 @@ Table of results of sepal length, sepal width, petal length and petal width anal
 
         |sepal_length|sepal_width|petal_length|petal_width|
 --------|------------|-----------|------------|-----------|
-**mean**| 5.843|3.054|3.75|1.987|
-**stdev**|0.828|0.433|1.76442|0.763|
-**min**|4.3|2.0|1.0|0.1|
-**max**|7.9|4.4|6.9|2.5|
+**mean** | 5.843 | 3.054 | 3.75 | 1.987 |
+**stdev** | 0.828 | 0.433 | 1.764 | 0.763 |
+**min**| 4.3 | 2.0 | 1.0 | 0.1 |
+**max**| 7.9 | 4.4 | 6.9 | 2.5 |
 
 
 # Resources and References
