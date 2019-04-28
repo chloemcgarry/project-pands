@@ -94,11 +94,15 @@ Created tables to display data.
 
 # Resources and References
 
-1. Kaggle
-2. Scikit Learn
-3. Pandas
-4. Seaborn
-5. NumPy
-6. Matplotlib
+1. Kaggle https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset
+2. Scikit Learn https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+3. Pandas https://pandas.pydata.org/
+4. Seaborn https://seaborn.pydata.org/
+5. NumPy https://www.numpy.org/
+6. Matplotlib https://matplotlib.org/
 7. Lecture videos for this module
 8. http://academic.bancey.com/plotting-multivariate-data-with-matplotlibpylab-edgar-andersons-iris-flower-data-set/
+9. UCI Machine Learning Repository https://archive.ics.uci.edu/ml/datasets/iris
+10. https://en.wikipedia.org/wiki/Iris_flower_data_set
+11. https://gist.github.com/curran/a08a1080b88344b0c8a7
+12. https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
