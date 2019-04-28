@@ -49,11 +49,45 @@ Analysis   | sepal_length | sepal_width | petal_length | petal_width |
 **min**    | 4.3          | 2.0         | 1.0          | 0.1         |
 **max**    | 7.9          | 4.4         | 6.9          | 2.5         |
 
+Data Summary of each species:
+
+Setosa
+
+Summary   | sepal_length | sepal_width | petal_length | petal_width |
+--------- | ------------ | ----------- | ------------ | ----------- |
+**mean**  | 5.01         | 3.42        | 1.46         | 0.24        |
+**stdev** | 0.35         | 0.38        | 0.17         | 0.11        |
+**min**   | 4.3          | 2.3         | 1.0          | 0.1         |
+**max**   | 5.8          | 4.4         | 1.9          | 0.6         |
+
+Veriscolor
+
+Summary   | sepal_length | sepal_width | petal_length | petal_width |
+--------- | ------------ | ----------- | ------------ | ----------- |
+**mean**  | 5.94         | 2.77        | 4.26         | 1.33        |
+**stdev** | 0.51         | 0.31        | 0.47         | 0.2         |
+**min**   | 4.9          | 2.0         | 3.0          | 1.0         |
+**max**   | 7.0          | 3.4         | 5.1          | 1.8         |
+
+Virginica
+
+Summary   | sepal_length | sepal_width | petal_length | petal_width |
+--------- | ------------ | ----------- | -------------| ----------- |
+**mean**  | 6.59         | 2.97        | 5.55         | 2.03        |
+**stdev** | 0.63         | 0.32        | 0.55         | 0.27        |
+**min**   | 4.9          | 2.2         | 4.5          | 1.4         |
+**max**   | 7.9          | 3.8         | 6.9          | 2.5         |
+
+
+
 # Areas of Development
 There are serveral areas and skills which I developed and learned through out this project. 
 1. The use of python libraries.
+
 Prior to this project I used matplotlib on a few occasions. In my research of the project I found that Seaborn would be important in the creation of visual representation of the data.
+
 2. Github Flavoured Markdown
+
 Throughout this project I understood the importance of using images, tables and url links in all aspects.
 I inserted images of scatterplots, boxplots and the iris flowers.
 Created tables to display data.
