@@ -41,6 +41,7 @@ Scatter plots of data
 
 Table of results of sepal length, sepal width, petal length and petal width analysis
 
+
 Analysis   | sepal_length | sepal_width | petal_length | petal_width |
 ---------- | ------------ | ----------- | ------------ | ----------- |
 **mean**   | 5.843        | 3.054       | 3.75         | 1.987       |
@@ -48,6 +49,14 @@ Analysis   | sepal_length | sepal_width | petal_length | petal_width |
 **min**    | 4.3          | 2.0         | 1.0          | 0.1         |
 **max**    | 7.9          | 4.4         | 6.9          | 2.5         |
 
+# Areas of Development
+There are serveral areas and skills which I developed and learned through out this project. 
+1. The use of python libraries.
+Prior to this project I used matplotlib on a few occasions. In my research of the project I found that Seaborn would be important in the creation of visual representation of the data.
+2. Github Flavoured Markdown
+Throughout this project I understood the importance of using images, tables and url links in all aspects.
+I inserted images of scatterplots, boxplots and the iris flowers.
+Created tables to display data.
 
 # Resources and References
 
